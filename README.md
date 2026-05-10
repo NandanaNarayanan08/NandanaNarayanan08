@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nandana Narayanan</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Nandana%20Narayanan&fontAlign=50&fontAlignY=40&fontSize=55&desc=AI%20%7C%20Backend%20%7C%20Embedded%20Systems&descAlignY=60"/>
+</p>
 
-<h3 align="center">
-AI & Backend Developer | Embedded Systems Enthusiast | Software Engineer
-</h3>
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V6eGRqN2Q4ZXB4OHh3eDVtb3E5bGR0M3N0dHFrN3I4c3l4bWl6aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="500"/>
+</p>
 
 <p align="center">
 Electrical and Electronics Engineering engineer passionate about backend systems, AI-powered applications, embedded technologies, and intelligent automation.
